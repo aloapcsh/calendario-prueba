@@ -1,0 +1,10 @@
+body {
+    background: url('assets/images/paricutin_bg.webp') no-repeat;
+    backdrop-filter: grayscale(0.75) blur(4px);
+} 
+
+#test {
+    width: 120px;
+    background-color: red;
+    color: white; 
+} 
